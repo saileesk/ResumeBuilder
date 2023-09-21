@@ -1,0 +1,35 @@
+section{
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+body {
+    justify-content: center;
+    align-items: center;
+    block-size: 10vh;
+  }
+.container{
+    align-items: center;
+    text-align: center;
+}
+#inputPassword5{
+    align-items: center;
+    text-align: center;
+}
+.mb-3{
+    align-items: center;
+    text-align: center;
+    padding-left: 500px
+   
+}
+#input{
+    padding-left: 500px;
+}
+
+a{
+    text-decoration: none;
+    Color: black;
+}
